@@ -17,3 +17,4 @@ Towing capacity: 1,500 lbs
 Dimensions: 178″ L x 72″ W x 65″ H
 178/12
 Engine: 2.4 L 4-cylinder
+
